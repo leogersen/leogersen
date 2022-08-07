@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://leogersen.com/">Leo Gersen</a></b>
+        </samp>
+</h3>
+<br>
+
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 I Code what I Design 」
+                <br>
+                「 I am a full stack developer passionate ui designer from <b>Brasil</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
+
 
 ## 🛠  Technologies and tools
 
