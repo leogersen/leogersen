@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
