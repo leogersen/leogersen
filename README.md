@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### Languages
+### hammer_and_wrench Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### Technologies
+### 🔭 Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+## 🌱 I’m currently learning
