@@ -75,6 +75,9 @@ Here are some ideas to get you started:
 ![AfterEffects](https://img.shields.io/badge/-After_Effects-05122A?&logo=adobeaftereffects)
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?&logo=adobepremierepro)
 ![Audition](https://img.shields.io/badge/-Audition-05122A?&logo=adobeaudition)
+![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?&logo=adobelightroom)
+![Indesign](https://img.shields.io/badge/-Indesign-05122A?&logo=adobeindesign)
+
 
 
 ## 🌱 Learning
