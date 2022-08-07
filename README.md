@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?logo=nestjs&logoColor=e32743)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?&logo=thtmeleaf)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?&logo=thymeleaf)
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?logo=nginx&logoColor=e32743)
 ![Apache](https://img.shields.io/badge/-Apache-05122A?logo=apache&logoColor=e32743)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
