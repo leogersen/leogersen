@@ -22,19 +22,14 @@ Here are some ideas to get you started:
                 <b><a target="_blank" href="https://leogersen.com/">Leo Gersen</a></b>
         </samp>
 </h3>
-<br>
 <p align="left">
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I Code what I Design 」
-                「 I run what I Build 」
+                I am a Full-Ftack developer passionate about Art and Technology from :brazil: <b>Brasil</b>
                 <br>
-                 Follow the KISS :kiss Principle:
-                <br>
-                「 I am a Full-Ftack developer passionate about Art and Technology from <b>Brasil</b> 」
-                <br>
-                <br>
+                    :writing_hand: I Code what I Design - :man_technologist: I run what I Build 
+                    <br>
         </samp>
 </p>
 </p>
@@ -72,4 +67,12 @@ Here are some ideas to get you started:
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
 
+## Find Me
+<a href="https://www.linkedin.com/in/leogersen/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Leogersen-05122A?&logo=linkedin"/>
+</a>
+
+## Gitlab
+![Gitlab](https://img.shields.io/badge/-Gitlab_Repository-05122A?&logo=gitlab)
+<br>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
