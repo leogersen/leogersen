@@ -29,7 +29,7 @@ Here are some ideas to get you started:
                 「 I Code what I Design 」
                 「 I run what I Build 」
                 <br>
-                 Follow the KISS:kiss Principle:
+                 Follow the KISS :kiss Principle:
                 <br>
                 「 I am a Full-Ftack developer passionate about Art and Technology from <b>Brasil</b> 」
                 <br>
