@@ -22,7 +22,6 @@ Here are some ideas to get you started:
                 <b><a target="_blank" href="https://leogersen.com/">Leo Gersen</a></b>
         </samp>
 </h3>
-<br>
 <p align="left">
 <p align="center">
         <!-- Organisation  -->
