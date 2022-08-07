@@ -27,6 +27,7 @@ Here are some ideas to get you started:
         <!-- Organisation  -->
         <samp>
                 「 I Code what I Design 」
+                「 I run what I Build 」
                 <br>
                 「 I am a full stack developer passionate ui designer from <b>Brasil</b> 」
                 <br>
