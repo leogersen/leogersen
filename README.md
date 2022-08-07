@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!-- Intro  -->
+<img align="right" height="590em" src=""/>
 <h3 align="center">
         <samp>&gt; Hi There!, I am
                 <b><a target="_blank" href="https://leogersen.com/">Leo Gersen</a></b>
         </samp>
 </h3>
 <br>
-
+<p align="left">
 <p align="center">
         <!-- Organisation  -->
         <samp>
@@ -36,9 +37,9 @@ Here are some ideas to get you started:
                 <br>
         </samp>
 </p>
+</p>
 
-
-### 🛠 Languages
+## 🛠 Languages
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23-05122A?&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 
-### 🔭 Technologies
+## 🔭 Technologies
 
 ![Sass](https://img.shields.io/badge/-Sass-05122A?&logo=Sass)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
@@ -63,7 +64,11 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)
 
-### 🌱 I’m currently learning
+## :art: Design & Audivisual
+
+![Figma](https://img.shields.io/badge/-Figma-05122A?&logo=figma)
+
+## 🌱 Learning
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
 
