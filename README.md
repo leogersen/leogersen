@@ -29,7 +29,9 @@ Here are some ideas to get you started:
                 「 I Code what I Design 」
                 「 I run what I Build 」
                 <br>
-                「 I am a full stack developer passionate ui designer from <b>Brasil</b> 」
+                 Follow the KISS:kiss Principle:
+                <br>
+                「 I am a Full-Ftack developer passionate about Art and Technology from <b>Brasil</b> 」
                 <br>
                 <br>
         </samp>
