@@ -72,10 +72,9 @@ Here are some ideas to get you started:
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
 
-## Gitlab
+## <img align="center" src="https://img.shields.io/badge/-000?&logo=gitlab" alt="Gitlab" height="28"/>Gitlab
 <a href="https://gitlab.iup.tec.br/leogersen" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Gitlab_Repository-05122A?&logo=gitlab" alt="Gitlab"/>
+        <img align="left" height="" src="https://github.com/leogersen/leogersen/blob/main/Gitlab.png"/>
 </a>
-<img align="left" height="" src="https://github.com/leogersen/leogersen/blob/main/Gitlab.png"/>
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
