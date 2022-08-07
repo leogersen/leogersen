@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/Arch_Linux-282C34?logo=archlinux&logoColor=168ecc" alt="Arch Linux logo" title="Arch Linux" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Nest.js-282C34?logo=nestjs&logoColor=C21325" alt="Jest logo" title="Nest" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
