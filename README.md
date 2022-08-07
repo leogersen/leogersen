@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I Code what I Design 」
-                「 I run what I Build 」
+               :writing_hand: I Code what I Design - :technologist: I run what I Build 
                 <br>
-                 Follow the KISS :kiss Principle:
                 <br>
-                「 I am a Full-Ftack developer passionate about Art and Technology from <b>Brasil</b> 」
+                 I am a <b>Full-Ftack</b> developer passionate about Art and Technology from :brazil: <b>Brasil</b> :brazil:
                 <br>
                 <br>
         </samp>
