@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Intro  -->
-<img align="right" height="" src="https://rlv.zcache.com.br/svc/getimage?id=1854579e-0be9-4b36-a9ea-e25ddce4db59&square_it=fill&max_dim=300&uhmc=CWRG7Fgg9n0VrztHyswZjtd-aZg1"/>
+<img align="right" height="40" src="https://1.bp.blogspot.com/-1FSOlnaIc-4/YDP7fs0HtJI/AAAAAAAALCQ/-e4yCVFRXeYWu9qX7ik0j9mdoNlToB0kgCLcBGAsYHQ/s0/Antu_distributor-logo-archlinux.svg.png"/>
 <h3 align="center">
         <samp>&gt; Hi There!, I am
                 <b><a target="_blank" href="https://leogersen.com/">Leo Gersen</a></b>
