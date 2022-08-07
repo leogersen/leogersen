@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 ![Audition](https://img.shields.io/badge/-Audition-05122A?&logo=adobeaudition)
 
 
-
 ## 🌱 Learning
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
