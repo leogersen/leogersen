@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/Java-05122A?&logo=coffeescript&logoColor=white)
-![Pyton](https://img.shields.io/badge/-Python-05122A?&logo=Python)
+<!-- ![Pyton](https://img.shields.io/badge/-Python-05122A?&logo=Python) -->
 ![PHP](https://img.shields.io/badge/-PHP-05122A?&logo=PHP)
-![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp&logoColor=white) -->
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 ![Shell](https://img.shields.io/badge/-Shell_Script-05122A?&logo=gnometerminal)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=html5)
