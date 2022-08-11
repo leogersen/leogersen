@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Learning
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?&logo=graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=terraform)
 
