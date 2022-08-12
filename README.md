@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <!-- ![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp&logoColor=white) -->
 <!-- ![Pyton](https://img.shields.io/badge/-Python-05122A?&logo=Python) -->
 
-## :art: Design & Audivisual
+## :art: Design & Audiovisual
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?&logo=figma)
 ![CorelVector](https://img.shields.io/badge/-Corel_Vector-05122A?&logo=vectorworks)
