@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=css3)
 <br>
 ![Sass](https://img.shields.io/badge/-Sass-05122A?&logo=Sass)
+![BEM](https://img.shields.io/badge/-BEM-05122A?&logo=bem)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?&logo=angular&logoColor=dd0031)
