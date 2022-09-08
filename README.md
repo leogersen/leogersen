@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 ## 🌱 Learning
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?&logo=jest)
-![Keycloak](https://img.shields.io/badge/-Keycloak-05122A?&logo=keycloak)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?&logo=kotlin)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?&logo=graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
