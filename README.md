@@ -83,10 +83,11 @@ Here are some ideas to get you started:
 
 ## 🌱 Learning
 
+![Jest](https://img.shields.io/badge/-Jest-05122A?&logo=jest)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?&logo=kotlin)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?&logo=graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=terraform)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=terraform)v
 
 ## <img align="center" src="https://img.shields.io/badge/-000?&logo=gitlab" alt="Gitlab" height="28"/>Gitlab
 <a href="https://gitlab.iup.tec.br/leogersen" target="_blank">
