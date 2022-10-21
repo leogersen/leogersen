@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?&logo=wordpress)
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?&logo=webpack)
+![Husky](https://img.shields.io/badge/-Husky-05122A?&logo=husky)
 <!-- ![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp&logoColor=white) -->
 <!-- ![Pyton](https://img.shields.io/badge/-Python-05122A?&logo=Python) -->
 
@@ -84,6 +85,7 @@ Here are some ideas to get you started:
 ## 🌱 Learning
 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?&logo=jest)
+![Swagger](https://img.shields.io/badge/-Terraform-05122A?&logo=swagger)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?&logo=kotlin)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?&logo=graphql)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
