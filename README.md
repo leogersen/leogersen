@@ -29,7 +29,7 @@ Here are some ideas to get you started:
                :writing_hand: I Code what I Design - :technologist: I run what I Build 
                 <br>
                 <br>
-                 I am a <b>Full-Ftack</b> developer with a strong background in <b>Graphic Design</b> passionate about Art and Technology from :brazil: <b>Brazil</b> :brazil:
+                 I am a <b>Full-Ftack</b> developer with a strong background in <b>Design & Audivisual</b> passionate about Art and Technology from :brazil: <b>Brazil</b> :brazil:
                 <br>
                 <br>
         </samp>
